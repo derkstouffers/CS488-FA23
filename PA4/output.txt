@@ -1,0 +1,13 @@
+Q1
+--------------------
+Best K: 5
+Accuracy: 0.9568181818181818
+
+Q3
+--------------------
+SVM Accuracy: 0.9829596412556054
+SVM Confusion Matrix: [[969   1]
+ [ 18 127]]
+Random Forest Accuracy: 0.979372197309417
+SVM Accuracy: [[970   0]
+ [ 23 122]]
